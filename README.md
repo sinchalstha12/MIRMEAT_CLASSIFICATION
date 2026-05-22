@@ -14,7 +14,7 @@ Accurate meat classification has real-world relevance, from food safety and qual
 
 **Dataset**
 The dataset used in this project is stored in MIRFreshMeats.csv.
-It contains MIR spectroscopy readings from 120 meat samples — 40 samples each of Chicken, Pork, and Turkey.
+It contains MIR spectroscopy readings from 120 meat samples - 40 samples each of Chicken, Pork, and Turkey.
 Each sample was measured across 448 wavenumber points, ranging from 1000 to 1800 cm⁻¹. In the CSV file, each row represents a wavenumber measurement, and each column represents one meat sample.
 
 **Methodology**
