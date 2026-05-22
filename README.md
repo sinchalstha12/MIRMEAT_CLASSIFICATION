@@ -84,7 +84,6 @@ import matplotlib.pyplot as plt
 6. Run each section in order from top to bottom
 
 ## Dependencies
-
 - Python 3.x
 - numpy
 - pandas
